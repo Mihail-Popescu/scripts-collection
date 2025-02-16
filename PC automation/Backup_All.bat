@@ -1,0 +1,1 @@
+robocopy "C:\Users\ReplaceWithYourUser\Desktop\All" "D:\All" /MIR /FFT /R:3 /W:5 /LOG:"D:\robocopy_log.txt" /NP
