@@ -15,7 +15,7 @@ To use the scripts in this repository, you’ll need:
 - **Python** for `.py` files.
 
 ## Scripts Overview
-Below is a list of scripts in this repository, along with a brief description of what each one does.
+Below is a list of scripts in this repository, along with a description of what each one does or why I made it.
 
 ### PC Automation
 - **Backup_All.bat:** This script uses the `robocopy` command to instantly back up a selected folder. It’s particularly useful if you already have `robocopy` set up to back up a folder from one SSD to another SSD whenever you shut down your PC, but you want to ensure that some important files are backed up immediately.
