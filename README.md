@@ -1,4 +1,4 @@
-## About
+## Overview
 This repository contains a collection of `.ahk` (AutoHotkey), `.bat` (Batch) and Python scripts I created for personal use. It serves as a backup for my scripts, but I made it public in case others might find them helpful.
 
 The scripts are divided into four sections:
